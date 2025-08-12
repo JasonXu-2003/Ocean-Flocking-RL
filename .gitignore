@@ -1,0 +1,16 @@
+
+.DS_Store
+.idea/
+*.iml
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+assets/tb/
+assets/tb/
+*.bak
+*.bak2
